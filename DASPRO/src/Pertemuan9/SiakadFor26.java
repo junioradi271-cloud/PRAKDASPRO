@@ -11,7 +11,7 @@ public class SiakadFor26 {
         double nilai, tertinggi=0, terendah=100;
         int Lulus=0, TidakLulus=0;
 
-        for (int i = 1; i <= 10; i++) {
+        for (int i = 1; i <= 9; i++) {
             System.out.print("Masukkan Nilai Mahasiswa ke- " + i + ": ");
             nilai=rear.nextDouble();
             if (nilai > tertinggi) {
