@@ -11,4 +11,8 @@ Hasil Uji Studi Kasus 2 oleh Alfian Prada Anindhia
 | 3  |   5   |    4    |     -      | tidak  |    Ya   |
 P genap = jenis kegiatan "BELMAWA" ,dokumen = 4, peringkat juara =2+1= 3
 | Jenis Kegiatan | Dokumen | Peringkat | Output | Sesuai? |
+<<<<<<< HEAD
 |     BEKMAWA    |    4    |     3     | berhak | Pendanaan diberikan dikarenakan memenuhi Syarat|
+=======
+|     BEKMAWA    |    4    |     3     | berhak | Pendanaan diberikan dikarenakan memenuhi Syarat|
+>>>>>>> 92a6f20162b98701dfe914a1f3073e8e91065225
