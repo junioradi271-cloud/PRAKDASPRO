@@ -20,11 +20,17 @@ public class SiakadFor26 {
             if (nilai < terendah) {
                 terendah = nilai;
             }
+            if (nilai >= 59) {
+                Lulus++;
+            } else {
+                TidakLulus++;
+            }
          
         }
         System.out.println("Nilai Tertinggi: "+tertinggi);
         System.out.println("Nilai Terendah: "+terendah);
-
+        System.out.println("Jumlah Mahasiswa Lulus: "+Lulus);
+        System.out.println("Jumlah Mahasiswa Tidak Lulus: "+TidakLulus);
     }
 }
     
