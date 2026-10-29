@@ -8,7 +8,7 @@ public class Star26 {
         System.out.print("Masukkan nilai n = ");
         int n = rear.nextInt();
 
-        for (int i = 2; i <= n; i+= 2) {
+        for (int i = 1; i <= n; i+= 2) {
             System.out.print(i + " ");
         }
         System.out.println();
