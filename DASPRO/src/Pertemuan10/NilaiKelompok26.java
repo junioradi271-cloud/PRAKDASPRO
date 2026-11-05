@@ -1,3 +1,5 @@
+//Percobaan 4 (uji wajib,langkah 10) jumlahKelompok 2 + (P mod 3) = 4
+//Percobaan 4 (uji wajib,langkah 10) jumlahPenilai 3 + (P mod 2) = 3
 package Pertemuan10;
 
 import java.util.Scanner;
