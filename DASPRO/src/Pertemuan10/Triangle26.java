@@ -1,3 +1,4 @@
+//Percobaan 3 (uji awal,langkah 3) n 2 + (P mod 3) = 4
 package Pertemuan10;
 
 import java.util.Scanner;
