@@ -10,6 +10,7 @@ public class Triangle26 {
 
         int i = 0;
         while (i <= n) {
+            System.out.println("[i=" + i + "] ");
             int j = 0;
             while (j < i) {
                 System.out.print("*");
