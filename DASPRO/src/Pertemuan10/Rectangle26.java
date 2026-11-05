@@ -1,6 +1,6 @@
-//Percobaan 2 (uji tambahan,langkah 9) (baris, kolom) uji ke-1 (2 + (P mod 3), 4 + (P mod 3))
-//Percobaan 2 (uji tambahan,langkah 9) (baris, kolom) uji ke-2 (5 + (P mod 3), 2 + (P mod 3))
-//Percobaan 2 (Pertanyaan 2) baris, kolom 4 + (P mod 4), 6 + (P mod 4)
+//Percobaan 2 (uji tambahan,langkah 9) (baris, kolom) uji ke-1 (2 + (P mod 3), 4 + (P mod 3)) = baris = 4, kolom = 6
+//Percobaan 2 (uji tambahan,langkah 9) (baris, kolom) uji ke-2 (5 + (P mod 3), 2 + (P mod 3)) = baris = 7, kolom = 4
+//Percobaan 2 (Pertanyaan 2) baris, kolom 4 + (P mod 4), 6 + (P mod 4) = baris = 6, kolom = 8
 package Pertemuan10;
 
 import java.util.Scanner;
