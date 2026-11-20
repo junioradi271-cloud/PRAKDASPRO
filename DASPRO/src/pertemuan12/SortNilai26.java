@@ -1,6 +1,6 @@
 //Percobaan 4 Bagian B (uji wajib tambahan)
 //elemen dasar array (B) 20 + (P mod 60) = 46
-
+//{B, B+15, B-8, B+30, B-20, B+5} = {46, 61, 38, 76, 26, 51}
 package pertemuan12;
 
 import java.util.Arrays;
@@ -8,7 +8,7 @@ import java.util.Arrays;
 public class SortNilai26 {
     public static void main(String[] args) {
         
-        int[] nilai = {78, 65, 90, 55, 88, 72};
+        int[] nilai = {46, 61, 38, 76, 26, 51};
         for (int i = 0; i < nilai.length; i++) {
             for (int j = 0; j < nilai.length -1 - i; j++) {
                 if (nilai[j] > nilai [j +1]) {
