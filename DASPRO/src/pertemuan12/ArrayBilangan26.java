@@ -10,10 +10,10 @@ public class ArrayBilangan26 {
         
         int[] bil = new int[4];
 
-        bil[0] = 5;
-        bil[1] = 13;
-        bil[2] = -7;
-        bil[3] = 17;
+        bil[0] = 26;
+        bil[1] = 33;
+        bil[2] = -6;
+        bil[3] = 31;
 
         for (int i = 0; i < bil.length; i++) {
             System.out.println("bil[" + i + "] = " + bil[i]);
