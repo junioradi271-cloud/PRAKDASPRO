@@ -30,7 +30,7 @@ public class SearchNilai26 {
             }
         }
         if (!ditemukan) {
-            System.out.println("Nilai " + key + "tidak ditemukan dalam array.");
+            System.out.println("Nilai " + key + " tidak ditemukan dalam array. Silakan periksa kembali nilai yang dicari.");
         }
     }
 }
