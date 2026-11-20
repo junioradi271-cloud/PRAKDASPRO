@@ -1,5 +1,5 @@
 //Percobaan 2 (uji wajib tambahan)
-//salah satu nilai yang diinput 60 + (P mod 41)
+//salah satu nilai yang diinput 60 + (P mod 41) = 86
 package pertemuan12;
 
 import java.util.Scanner;
@@ -14,8 +14,10 @@ public class ArrayNilai26 {
             nilaiAkhir[i] = rear.nextInt();
         }
         for (int i = 0; i < nilaiAkhir.length; i++) {
-            String status = (nilaiAkhir[i] > 70) ? "LULUS" : "TIDAK LULUS";
-            System.out.println("Mahasiswa ke-" + (i + 1) + ": " + nilaiAkhir[i] + " (" + status + ")");
+            if (nilaiAkhir[i] > 70) {
+                System.out.println("Mahasiswa ke-" + (i + 1) + ": " + nilaiAkhir[i] + " (LULUS)");
+            }
+           
         }
         rear.close();
     }
