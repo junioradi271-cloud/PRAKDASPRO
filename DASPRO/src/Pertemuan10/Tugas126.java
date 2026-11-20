@@ -9,7 +9,7 @@ public class Tugas126 {
         System.out.print("Masukkan nilai n = ");
         int n = sc.nextInt();
         int total=0;
-
+        
         int i = 1;
         while (i <= n) { 
             int j = 0;
