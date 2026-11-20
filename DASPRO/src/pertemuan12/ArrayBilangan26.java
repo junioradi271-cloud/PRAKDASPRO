@@ -8,12 +8,7 @@ import java.util.Arrays;
 public class ArrayBilangan26 {
     public static void main(String[] args) {
         
-        int[] bil = new int[4];
-
-        bil[0] = 5.0;
-        bil[1] = 12867;
-        bil[2] = 7.5;
-        bil[3] = 2000000;
+        int[] bil = {26, 33, -6, 31};
 
         for (int i = 0; i < bil.length; i++) {
             System.out.println("bil[" + i + "] = " + bil[i]);
